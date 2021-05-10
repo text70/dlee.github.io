@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to text70
 
 You can use the [editor on GitHub](https://github.com/text70/dlee.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
