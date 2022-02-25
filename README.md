@@ -9,11 +9,11 @@ Bioengineer :: (Read Biology) a => [(Chemistry a, Technology a, Biotechnolgy a)]
 ```markdown
 _highlights_
 
-- Lean
-- sigma6
-- ISO9000
-- fGLP
-- ICRB
+A
+A
+A
+A
+A
 
 
 ```
@@ -22,4 +22,4 @@ _highlights_
 
 ### Support or Contact
 
-pop_email@
+pop_email
