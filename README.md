@@ -4,22 +4,20 @@ Bioengineer :: (Read Biology) a => [(Chemistry a, Technology a, Biotechnolgy a)]
 
 
 ### Outcomes
-
+M.S.
+Working on Ph.D.
 
 ```markdown
 _highlights_
 
-A
-A
-A
-A
-A
-
-
+Going digital 
+Python
+Webservers
+Docking(not Docker)
+Linux based
 ```
 
 
 
 ### Support or Contact
-
-pop_email
+dlee@d-lee.pro
