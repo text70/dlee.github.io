@@ -28,10 +28,10 @@ Linux based
 
 [
 ```html
-
+<pre>
 {--RUN.ME--}
 {-|[`onecompiler`]'<a href="https://onecompiler.com/haskell/437bhe5ds" title="onecompiler">onecompiler</a>'|-}
-<pre>
+
 '<a href="https://onecompiler.com/haskell/437bhe5ds" title="onecompiler">onecompiler</a>'
 </pre>
 data Chemistry a = Chem a deriving (Show)
