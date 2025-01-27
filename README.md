@@ -16,7 +16,7 @@ Linux based
 ```
 
 ## Support or Contact  
-💌[Email]<dlee@d-lee.pro>  
+💌[Email](mailto:dlee@d-lee.pro)  
 🕸️[WhatsApp](https://wa.me/15122178182)
 
 ## Websites
