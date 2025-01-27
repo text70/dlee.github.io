@@ -27,7 +27,7 @@ Linux based
 > Native Austinite, for real. 
 
 [
-```
+```html
 
 {--RUN.ME--}
 {-|[`onecompiler`]'<a href="https://onecompiler.com/haskell/437bhe5ds" title="onecompiler">onecompiler</a>'|-}
