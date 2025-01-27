@@ -30,7 +30,7 @@ Linux based
 ```
 
 {--RUN.ME--}
-{-|[`onecompiler`](https://onecompiler.com/haskell/437bhe5ds)|-}
+{-|[`onecompiler`]'<a href="https://onecompiler.com/haskell/437bhe5ds" title="onecompiler">onecompiler</a>'|-}
 
 data Chemistry a = Chem a deriving (Show)
 data Technology a = Tech a deriving (Show)
