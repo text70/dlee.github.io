@@ -23,6 +23,6 @@ Linux based
 
 **###Websites**  
 [Need professional help?](https://consult.d-lee.pro)  
-[I'm a real cowboy!]((https://www.red-tailedhawkranch.com/))
+[I'm a real cowboy!](https://www.red-tailedhawkranch.com/)
 
 
