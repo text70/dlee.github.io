@@ -17,7 +17,7 @@ Linux based
 
 ## Support or Contact  
 💌[Email](mailto:dlee@d-lee.pro)  
-🕸️[WhatsApp](https://wa.me/15122178182)
+🕸️[WhatsApp](https://wa.me/15122178182)  
 ☕[BuyMeaCoffee(or🍕)](buymeacoffee.com/d_lee)
 
 ## Websites
