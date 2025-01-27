@@ -26,12 +26,11 @@ Linux based
 > [!NOTE]
 > Native Austinite, for real. 
 
-
+[
 ```
 
 {--RUN.ME--}
 {-|[`onecompiler`](https://onecompiler.com/haskell/437bhe5ds)|-}
-[`onecompiler`](https://onecompiler.com/haskell/437bhe5ds)
 
 data Chemistry a = Chem a deriving (Show)
 data Technology a = Tech a deriving (Show)
@@ -59,3 +58,4 @@ main = do
   let result = runBioengineer bioengineerInstance transform exampleInput
   print result
 ```
+](https://onecompiler.com/haskell/437bhe5ds)
