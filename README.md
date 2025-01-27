@@ -1,13 +1,14 @@
 ## Welcome to Dallas!
 ```
-{-RUN.ME-}
+{-RUN.ME-@[onecompiler](https://onecompiler.com/haskell)}
 data Chemistry a = Chem a deriving (Show)
 data Technology a = Tech a deriving (Show)
 data Biotechnology a = Bio a deriving (Show)
 data MaterialsScience b = Material b deriving (Show)
 
 newtype Bioengineer a b = Bioengineer
-  { runBioengineer :: (a -> b) -> [(Chemistry a, Technology a, Biotechnology a)] -> [Materia>
+  { runBioengineer :: (a -> b) ->
+[(Chemistry a, Technology a, Biotechnology a)] -> [MaterialsScience b]
   }
 
 bioengineerInstance :: Bioengineer a b
