@@ -1,4 +1,4 @@
-## Welcome to Dallas!
+## Welcome to Dallas! 
 ```
 
 {--RUN.ME--}
@@ -53,4 +53,6 @@ Linux based
 [Need professional help?](https://consult.d-lee.pro)  
 [I'm a real cowboy!](https://www.red-tailedhawkranch.com/)
 
+> [!NOTE]
+> Native Austinite, for real. 
 
