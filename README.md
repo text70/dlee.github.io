@@ -31,9 +31,9 @@ Linux based
 
 {--RUN.ME--}
 {-|[`onecompiler`]'<a href="https://onecompiler.com/haskell/437bhe5ds" title="onecompiler">onecompiler</a>'|-}
-
+<pre>
 '<a href="https://onecompiler.com/haskell/437bhe5ds" title="onecompiler">onecompiler</a>'
-
+</pre>
 data Chemistry a = Chem a deriving (Show)
 data Technology a = Tech a deriving (Show)
 data Biotechnology a = Bio a deriving (Show)
