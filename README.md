@@ -1,5 +1,9 @@
 ## Welcome to Dallas!
 ```
+<pre>
+<a href="my-url">Something</a>
+</pre>
+
 {-RUN.ME@[`onecompiler`](https://onecompiler.com/haskell)-}
 data Chemistry a = Chem a deriving (Show)
 data Technology a = Tech a deriving (Show)
