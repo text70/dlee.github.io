@@ -1,4 +1,32 @@
-## Welcome to Dallas! 
+## Welcome to Dallas!   
+  
+
+## About me
+M.S. 
+Working on Ph.D.
+
+```markdown
+_highlights_
+
+Going digital 
+Python
+Webservers
+Protein Docking(not Docker)
+Linux based
+```
+
+## Support or Contact  
+[Email]<dlee@d-lee.pro>  
+[WhatsApp](https://wa.me/15122178182)
+
+**###Websites**  
+[Need professional help?](https://consult.d-lee.pro)  
+[I'm a real cowboy!](https://www.red-tailedhawkranch.com/)
+
+> [!NOTE]
+> Native Austinite, for real. 
+
+
 ```
 
 {--RUN.ME--}
@@ -30,29 +58,3 @@ main = do
   let result = runBioengineer bioengineerInstance transform exampleInput
   print result
 ```
-
-## Outcomes
-M.S. 
-Working on Ph.D.
-
-```markdown
-_highlights_
-
-Going digital 
-Python
-Webservers
-Protein Docking(not Docker)
-Linux based
-```
-
-## Support or Contact  
-[Email]<dlee@d-lee.pro>  
-[WhatsApp](https://wa.me/15122178182)
-
-**###Websites**  
-[Need professional help?](https://consult.d-lee.pro)  
-[I'm a real cowboy!](https://www.red-tailedhawkranch.com/)
-
-> [!NOTE]
-> Native Austinite, for real. 
-
