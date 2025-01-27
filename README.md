@@ -1,7 +1,7 @@
 ## Welcome to Dallas!   
   
 
-## About me 🤓♌⚗️::
+## About me::🤓♌⚗️
 ✅: M.S. 
 🔲Working on Ph.D.
 
