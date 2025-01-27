@@ -4,7 +4,7 @@ Bioengineer :: (Read Biology) a => [(Chemistry a, Technology a, Biotechnolgy a)]
 
 
 ### Outcomes
-M.S.
+M.S. 
 Working on Ph.D.
 
 ```markdown
@@ -18,8 +18,8 @@ Linux based
 ```
 
 ### Support or Contact  
-<dlee@d-lee.pro>  
-<https://wa.me/15122178182>
+[Email](dlee@d-lee.pro)  
+[WhatsApp](https://wa.me/15122178182)
 
 **###Websites**  
 [Need professional help?](https://consult.d-lee.pro)  
