@@ -18,11 +18,11 @@ Linux based
 ```
 
 ### Support or Contact
-<dlee@d-lee.pro>
+<dlee@d-lee.pro>  
 <https://wa.me/15122178182>
 
 **###Websites**
-[Need professional help?](https://consult.d-lee.pro)
+[Need professional help?](https://consult.d-lee.pro)  
 [I'm a real cowboy!](https:://www.red-tailedhawkranch.com)
 
 
