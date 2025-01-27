@@ -1,5 +1,6 @@
 ## Welcome to Dallas!
 ```
+{-RUN.ME-}
 data Chemistry a = Chem a deriving (Show)
 data Technology a = Tech a deriving (Show)
 data Biotechnology a = Bio a deriving (Show)
