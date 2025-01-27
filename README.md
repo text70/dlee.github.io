@@ -28,6 +28,14 @@ Linux based
 
 
 ```
+<pre>
+import { assign, map } from '<a href="https://www.npmjs.com/package/lodash" title="Lodash on npm">lodash</a>';
+
+<a href="https://lodash.com/docs#assign" title="assign documentation">assign</a>({ 'a': 1 }, { 'b': 2 }, { 'c': 3 });
+// → { 'a': 1, 'b': 2, 'c': 3 } 
+<a href="https://lodash.com/docs#map" title="map documentation">map</a>([1, 2, 3], function(n) { return n * 3; });
+// → [3, 6, 9] 
+</pre>
 
 {--RUN.ME--}
 {-|[`onecompiler`]'<https://onecompiler.com/haskell/437bhe5ds">|-}
