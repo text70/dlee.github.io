@@ -1,9 +1,9 @@
 ## Welcome to Dallas!   
   
 
-## About me
-M.S. 
-Working on Ph.D.
+## About me 🤓♌⚗️::
+✅: M.S. 
+🔲Working on Ph.D.
 
 ```markdown
 _highlights_
@@ -16,12 +16,12 @@ Linux based
 ```
 
 ## Support or Contact  
-[Email]<dlee@d-lee.pro>  
-[WhatsApp](https://wa.me/15122178182)
+💌[Email]<dlee@d-lee.pro>  
+🕸️[WhatsApp](https://wa.me/15122178182)
 
 ## Websites
-[Need professional help?](https://consult.d-lee.pro)  
-[I'm a real cowboy!](https://www.red-tailedhawkranch.com/)
+➡️[Need professional help?](https://consult.d-lee.pro)  
+🤠[I'm a real cowboy!](https://www.red-tailedhawkranch.com/) 🐄
 
 > [!NOTE]
 > Native Austinite, for real. 
