@@ -28,7 +28,7 @@ main = do
   print result
 ```
 
-[Link Text](# Outcomes)
+## Outcomes
 M.S. 
 Working on Ph.D.
 
@@ -42,7 +42,7 @@ Protein Docking(not Docker)
 Linux based
 ```
 
-### Support or Contact  
+## Support or Contact  
 [Email]<dlee@d-lee.pro>  
 [WhatsApp](https://wa.me/15122178182)
 
