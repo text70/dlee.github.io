@@ -1,6 +1,29 @@
 ## Welcome to Dallas!
 
-Bioengineer :: (Read Biology) a => [(Chemistry a, Technology a, Biotechnolgy a)] -> [Materials Science a] 
+data Chemistry a = Chem a deriving (Show)
+data Technology a = Tech a deriving (Show)
+data Biotechnology a = Bio a deriving (Show)
+data MaterialsScience b = Material b deriving (Show)
+
+newtype Bioengineer a b = Bioengineer
+  { runBioengineer :: (a -> b) -> [(Chemistry a, Technology a, Biotechnology a)] -> [Materia>
+  }
+
+bioengineerInstance :: Bioengineer a b
+bioengineerInstance = Bioengineer $ \f inputs ->
+  map (\(Chem x, _, _) -> Material (f x)) inputs
+
+transform :: Float -> String
+transform x = "Material: " ++ show (x * 2)
+
+-- Example input
+exampleInput :: [(Chemistry Float, Technology Float, Biotechnology Float)]
+exampleInput = [(Chem 21.0, Tech 29.0, Bio 30.0), (Chem 34.5, Tech 50.0, Bio 6.0)]
+
+main :: IO ()
+main = do
+  let result = runBioengineer bioengineerInstance transform exampleInput
+  print result
 
 
 ### Outcomes
