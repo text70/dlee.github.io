@@ -1,6 +1,6 @@
 ## Welcome to Dallas!
 ```
-{-RUN.ME-@[onecompiler](https://onecompiler.com/haskell)}
+{-RUN.ME@[onecompiler](https://onecompiler.com/haskell)-}
 data Chemistry a = Chem a deriving (Show)
 data Technology a = Tech a deriving (Show)
 data Biotechnology a = Bio a deriving (Show)
