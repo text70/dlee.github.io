@@ -1,5 +1,5 @@
 ## Welcome to Dallas!
-
+```
 data Chemistry a = Chem a deriving (Show)
 data Technology a = Tech a deriving (Show)
 data Biotechnology a = Bio a deriving (Show)
@@ -24,7 +24,7 @@ main :: IO ()
 main = do
   let result = runBioengineer bioengineerInstance transform exampleInput
   print result
-
+```
 
 ### Outcomes
 M.S. 
