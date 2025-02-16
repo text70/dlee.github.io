@@ -1,5 +1,5 @@
 #theme: jekyll-theme-cayman
-remote_theme: sproogen/modern-resume-theme@2.0.10
+remote_theme: daviddarnes/garth@1.0.5
 #minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 title: Dallas Lee
 description: Short Bio and About Me
