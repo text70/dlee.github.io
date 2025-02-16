@@ -21,9 +21,10 @@
 ```markdown
 _highlights_
 
+I like to discover new ways to use programs and molecules. 
 Organic Chemistry? You got it!
-
-Linux flavors? 
+Linux flavors? Arch, Ubuntu, nixpkgs.
+Ask me about my com.
 ```
 
 
