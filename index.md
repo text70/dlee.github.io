@@ -21,11 +21,9 @@
 ```markdown
 _highlights_
 
-Going digital 
-Python
-Webservers
-Protein Docking(not Docker)
-Linux based
+Organic Chemistry? You got it!
+
+Linux flavors? ![blue](https://readme-swatches.vercel.app/0080FF)
 ```
 
 ## Support or Contact  
@@ -76,3 +74,18 @@ main = do
 
 ```
 
+<section class="color-swatches cf"></section>
+<!--<div class="swatch">
+    <div class="colorbox" style="background:#ff0000"></div>
+    <div class="splitcolorbox">
+        <span style="background:#ff0">+10%</span>
+        <span style="background:#f0f">+10%</span>
+        <span style="background:#0ff">+10%</span>
+        <span style="background:#f00">+10%</span>
+        <span style="background:#0f0">+10%</span>
+    </div>
+    <div class="colorname">
+        <span class="name-main" data-name="red">red</span>
+        <span class="name-hexrgb" data-hex="#ff0000" data-rgb="rgb(255, 0, 0)"></span>
+    </div>
+</div>-->
