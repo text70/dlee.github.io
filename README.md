@@ -29,16 +29,16 @@ Linux based
 ```
 
 ## Support or Contact  
-💌[Email](mailto:dlee@d-lee.pro)  
-🕸️[WhatsApp](https://wa.me/15122178182)  
-☕[BuyMeaCoffee(or🍕)](buymeacoffee.com/d_lee)
+⚡[Email](mailto:dlee@d-lee.pro)  
+⚡[WhatsApp](https://wa.me/15122178182)  
+⚡[BuyMeaCoffee(or🍕)](buymeacoffee.com/d_lee)
 
 ## Websites
-➡️[Need professional help?](https://consult.d-lee.pro)  
-🤠[I'm a real cowboy!](https://www.red-tailedhawkranch.com/) 🐄
+⚡[Need professional help?](https://consult.d-lee.pro)  
+⚡[I'm a real cowboy!](https://www.red-tailedhawkranch.com/) 🐄
 
-> [!NOTE]
-> Native Austinite, for real. 
+
+⚡ Native Austinite, for real. 
 
 
 ```
