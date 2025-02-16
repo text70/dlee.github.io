@@ -11,9 +11,7 @@
     <h1 style="font-size: 2.5rem; margin: 0;">
       Welcome to Dallas!
     </h1>
-    <p style="font-size: 1.2rem; margin-top: 0.5rem;">
       
-    </p>
   </div>
  
   
