@@ -23,8 +23,11 @@ _highlights_
 
 Organic Chemistry? You got it!
 
-Linux flavors? ![blue](https://readme-swatches.vercel.app/0080FF)
+Linux flavors? 
 ```
+[<img src="Ubuntu">](https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png) 
+[<img src= "Arch_Logo">](https://raw.githubusercontent.com/wiki/archlinux/archwiki/archlogo.png)
+
 
 ## Support or Contact  
 ⚡[Email](mailto:dlee@d-lee.pro)  
