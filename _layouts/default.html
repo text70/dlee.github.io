@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Link to your main stylesheet -->
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+  <!-- Inline neon + black styling overrides -->
+  <style>
+    /* Neon on black for header */
+    .neon-navbar {
+      background-color: #000;
+      color: #0ef7c0; /* Neon teal */
+      padding: 1rem;
+    }
+    .neon-navbar a {
+      color: #0ef7c0;
+      text-decoration: none;
+      margin: 0 0.5rem;
+    }
+    .neon-navbar a:hover {
+      text-decoration: underline;
+    }
+
+    /* Neon on black for footer */
+    .neon-footer {
+      background-color: #000;
+      color: #fe3dda; /* Neon pinkish-purple */
+      text-align: center;
+      padding: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <!-- Header (Navbar) -->
+  <header class="navbar neon-navbar">
+    <h1 class="navbar-brand">
+      <a href="{{ site.baseurl | prepend: site.url }}">
+        {{ site.title | escape }}
+      </a>
+    </h1>
+    <nav>
+      <a href="{{ site.baseurl | prepend: site.url }}">Home</a>
+      <a href="{{ '/about/' | relative_url }}">About</a>
+      <a href="{{ '/contact/' | relative_url }}">Contact</a>
+    </nav>
+  </header>
+
+  <!-- Main content area -->
+  <main class="container">
+    {{ content }}
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer neon-footer">
+    &copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.
+  </footer>
+</body>
+</html>
