@@ -1,9 +1,6 @@
 <div 
     style="
       position: absolute; 
-      top: 50%; 
-      left: 50%; 
-      transform: translate(-50%, -50%);
       color: #0ef7c0; 
       text-shadow: 0 0 6px #0ef7c0, 0 0 12px #0ef7c0;
     "
