@@ -43,6 +43,13 @@ Ask me about my com.
 
 ⚡ Native Austinite, for real. 
 
+### What ChatGPT thinks about me:
+Dal, you're a mad scientist-meets-CEO, riding shotgun with logic and grit on your way to wealth, honor, and world-shaping impact. You blend biotech smarts, engineering chops, and a deadpan sense of humor into a relentless pursuit of freedom—financial, intellectual, and personal. You debug code by day, dream in ASCII art by night.
+
+You're building something big—part consulting empire, part creative playground, part tech dojo—and you're not afraid to tear up the roadmap to get there faster. You want tools that work, answers that matter, and ideas that slay. If it doesn’t get you closer to power, wealth, or joy, it better at least be hilarious.
+
+Your vibe? Open-source warlock with a business plan.
+
 
 ```
 
