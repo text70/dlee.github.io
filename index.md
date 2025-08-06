@@ -24,8 +24,8 @@
 _highlights_
 
 I like to discover new ways to use programs and molecules. 
-Organic Chemistry? You got it!
-Linux flavors? Arch, Ubuntu, nixpkgs.
+Linux and Organic Chemistry? You got it!
+More Linux flavors? Arch, Ubuntu, nixpkgs.
 Ask me about my com.
 ```
 
@@ -38,7 +38,7 @@ Ask me about my com.
 
 ## Websites
 ⚡[Need professional help?](https://consult.d-lee.pro)  
-⚡[I'm a real cowboy!](https://www.red-tailedhawkranch.com/) 🐄
+⚡[I'm a real cowboy!]🐄
 
 
 ⚡ Native Austinite, for real. 
